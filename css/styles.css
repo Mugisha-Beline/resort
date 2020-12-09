@@ -1,0 +1,12 @@
+li {
+    display: inline;
+  }
+  li {
+    float: left;
+  }
+  
+  a {
+    display: inline;
+    padding: 8px;
+    background-color: #dddddd;
+  }
